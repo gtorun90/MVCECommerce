@@ -1,0 +1,29 @@
+﻿@model List<ECommerceApp.Entities.Product>
+
+@{
+    ViewBag.Title = "Ürün Listesi";
+}
+
+<div class="container p-5 mb-5">
+    <div class="row">
+        <div class="col-md-3">
+            @Html.Action("_CategoryList", "Home")
+        </div>
+        <div class="col-md-9">
+            @if (Model.Count() == 0)
+            {
+                <div class="alert alert-warning" role="alert">
+                    <i class="fa fa-exclamation-circle"></i> Bu Kategoriye Ait Ürün Bulunamamıştır!
+                </div>
+
+            }
+            else
+            {
+                <div class="alert alert-warning" role="alert">
+                    <strong><i class="fas fa-check-square"></i><span class="ml-1">@Model.Count() Adet</span></strong> Ürün Bulundu
+                </div>
+            }
+            @Html.Partial("_ProductList", Model)
+        </div>
+    </div>
+</div>

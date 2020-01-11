@@ -1,0 +1,26 @@
+﻿@model List<ECommerceApp.Entities.Product>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-3">
+                    <img src="~/theme/img/@product.Image" class="card-img-top" alt="card image cap">
+                    <div class="card-body">
+                        <h4 class="card-title">
+                          <a href="/Home/Details/@product.Id">@product.Name</a>
+                        </h4>
+                        <p class="card-text pt-2 description">@product.Description</p>
+                    </div>
+                    <div class="card-footer">
+                        <small class="text-muted product-price">
+                            @product.Price <i class="fas fa-lira-sign"></i>
+                        </small>
+                        <a href="/Home/Details/@product.Id" class="btn btn-warning btn-sm float-right">
+                            <i class="fa fa-angle-double-right"><span class="ml-2">Ürünü İncele</span></i>
+                        </a>
+                    </div>
+                </div>
+
+            </div>
+        }
+    </div>

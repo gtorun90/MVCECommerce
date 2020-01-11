@@ -1,0 +1,8 @@
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\bin\Debug\ECommerceApp.Interfaces.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\bin\Debug\ECommerceApp.Interfaces.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\bin\Debug\ECommerceApp.Entities.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\bin\Debug\ECommerceApp.Entities.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.csprojAssemblyReference.cache
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.csproj.CopyComplete
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.pdb

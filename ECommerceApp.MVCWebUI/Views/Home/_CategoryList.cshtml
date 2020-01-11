@@ -1,0 +1,37 @@
+﻿@model List<ECommerceApp.Entities.Category>
+
+@{
+    var selectedCategory = Url.RequestContext.RouteData.Values["id"];
+}
+<div class="list-group">
+    @if (selectedCategory == null)
+    {
+        var className = "list-group-item active";
+        <a href="/Home/List/" class="@className">
+            Tüm Kategoriler
+        </a>
+    }
+    else
+    {
+        <a  href="/Home/List/"  id="list-0" class="list-group-item">
+            Tüm Kategoriler
+        </a>
+    }
+    @foreach (var category in Model)
+    {
+        if (selectedCategory != null && @category.Id == Convert.ToInt32(selectedCategory.ToString()))
+        {
+            var className = "list-group-item active";
+            <a href="/Home/List/@category.Id" class="@className">
+                @category.Name
+            </a>
+        }
+        else
+        {
+            <a href="/Home/List/@category.Id" class="list-group-item">
+                @category.Name
+            </a>
+        }
+    }
+</div>
+

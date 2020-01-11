@@ -1,0 +1,8 @@
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\bin\Debug\ECommerceApp.Entities.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\bin\Debug\ECommerceApp.Entities.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\bin\Debug\EntityFramework.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\bin\Debug\EntityFramework.xml
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csproj.CopyComplete
+C:\Projects\C#\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csprojAssemblyReference.cache

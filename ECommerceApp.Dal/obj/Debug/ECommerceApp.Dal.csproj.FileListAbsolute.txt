@@ -1,0 +1,17 @@
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Dal.dll.config
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Dal.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Dal.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Entities.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\EntityFramework.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Entities.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\EntityFramework.xml
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.csprojAssemblyReference.cache
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.csproj.CopyComplete
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.Migrations.CreateTables.resources
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.csproj.GenerateResource.cache
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.Migrations.CreateNEwColumn.resources
+C:\Projects\C#\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.Migrations.CreateProductImageColumn.resources

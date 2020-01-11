@@ -1,0 +1,15 @@
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Bll.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Bll.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Dal.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Entities.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Interfaces.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\EntityFramework.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Dal.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Dal.dll.config
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Entities.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Interfaces.pdb
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\bin\Debug\EntityFramework.xml
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.csprojAssemblyReference.cache
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.csproj.CopyComplete
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.dll
+C:\Projects\C#\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.pdb
