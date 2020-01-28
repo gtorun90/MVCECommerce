@@ -60,7 +60,7 @@ namespace ECommerceApp.Dal.Concrete.EntityFrameWork
             productToUpdate.Stock = product.Stock;
             productToUpdate.IsHome = product.IsHome;
             productToUpdate.IsApproved = product.IsApproved;
-            _context.SaveChanges();
+            _context.SaveChanges(); 
         }
     }
 }
