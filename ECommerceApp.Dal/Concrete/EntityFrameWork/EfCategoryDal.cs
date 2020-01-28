@@ -37,6 +37,7 @@ namespace ECommerceApp.Dal.Concrete.EntityFrameWork
         {
             Category categoryToUpdate = _context.Categories.FirstOrDefault(c => c.Id == category.Id);
             categoryToUpdate.Name = category.Name;
+            categoryToUpdate.Description = category.Description;
             _context.SaveChanges();
         }
     }

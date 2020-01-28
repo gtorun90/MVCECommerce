@@ -35,6 +35,10 @@ namespace ECommerceApp.Bll.Concrete
         public List<Product> GetAll()
         {
             return _productDal.GetAll();
+        }        
+        public List<Product> GetAllByIsHome()
+        {
+            return _productDal.GetAllByIsHome();
         }
         public List<Product> GetProductsByCategoryId(int categoryId)
         {

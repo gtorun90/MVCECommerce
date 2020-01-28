@@ -10,6 +10,7 @@ namespace ECommerceApp.Dal.Abstract
     public interface IProductDal
     {
         List<Product> GetAll();
+        List<Product> GetAllByIsHome();
         List<Product> GetAllWithShortDescrition();
         List<Product> GetProductsByCategoryId(int categoryId);
         Product Get(int productId);

@@ -69,6 +69,10 @@
     <Compile Include="Migrations\202001081851468_CreateProductImageColumn.designer.cs">
       <DependentUpon>202001081851468_CreateProductImageColumn.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202001121215470_LatestChanges.cs" />
+    <Compile Include="Migrations\202001121215470_LatestChanges.designer.cs">
+      <DependentUpon>202001121215470_LatestChanges.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -91,6 +95,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202001081851468_CreateProductImageColumn.resx">
       <DependentUpon>202001081851468_CreateProductImageColumn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202001121215470_LatestChanges.resx">
+      <DependentUpon>202001121215470_LatestChanges.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup />

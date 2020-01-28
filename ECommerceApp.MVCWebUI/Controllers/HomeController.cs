@@ -19,7 +19,7 @@ namespace ECommerceApp.MVCWebUI.Controllers
         }      
         public ActionResult Index()
         {
-            List<Product> products = _productService.GetAll();
+            List<Product> products = _productService.GetAllByIsHome();
             return View(products);
         }
 

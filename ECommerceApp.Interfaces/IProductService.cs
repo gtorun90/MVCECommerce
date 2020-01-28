@@ -11,6 +11,7 @@ namespace ECommerceApp.Interfaces
     public interface IProductService
     {
         List<Product> GetAll();
+        List<Product> GetAllByIsHome();
         
         List<Product> GetAllWithShortDescrition();
         List<Product> GetProductsByCategoryId(int categoryId);

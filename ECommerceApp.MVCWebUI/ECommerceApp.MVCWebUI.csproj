@@ -130,7 +130,9 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -162,7 +164,6 @@
     <Content Include="theme\home.html" />
     <Content Include="theme\img\bg.jpg" />
     <Content Include="theme\img\bg.svg" />
-    <Content Include="theme\img\camera.jpg" />
     <Content Include="theme\js\holder.min.js" />
     <Content Include="theme\product-details.html" />
     <Content Include="theme\product-list.html" />
@@ -183,6 +184,15 @@
     <Content Include="Views\Home\_ProductList.cshtml" />
     <Content Include="Views\Home\List.cshtml" />
     <Content Include="Views\Home\_CategoryList.cshtml" />
+    <Content Include="Views\Category\Create.cshtml" />
+    <Content Include="Views\Category\Delete.cshtml" />
+    <Content Include="Views\Category\Edit.cshtml" />
+    <Content Include="Views\Category\Index.cshtml" />
+    <Content Include="Views\Shared\_AdminLayout.cshtml" />
+    <Content Include="Views\Product\Create.cshtml" />
+    <Content Include="Views\Product\Delete.cshtml" />
+    <Content Include="Views\Product\Edit.cshtml" />
+    <Content Include="Views\Product\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
