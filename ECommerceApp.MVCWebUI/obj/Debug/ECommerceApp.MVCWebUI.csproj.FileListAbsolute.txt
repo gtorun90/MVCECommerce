@@ -184,3 +184,4 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\obj\Debug\ECommerceApp.MVCWebUI.c
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\obj\Debug\ECommerceApp.MVCWebUI.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\obj\Debug\ECommerceApp.MVCWebUI.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\obj\Debug\ECommerceApp.MVCWebUI.pdb
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Entities.dll.config

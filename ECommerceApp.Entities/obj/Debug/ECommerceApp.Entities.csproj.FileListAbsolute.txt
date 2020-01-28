@@ -13,3 +13,4 @@ C:\Projects\ECommerceApp\ECommerceApp.Entities\bin\Debug\ECommerceApp.Entities.p
 C:\Projects\ECommerceApp\ECommerceApp.Entities\bin\Debug\EntityFramework.dll
 C:\Projects\ECommerceApp\ECommerceApp.Entities\bin\Debug\EntityFramework.xml
 C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csproj.CopyComplete
+C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csprojAssemblyReference.cache

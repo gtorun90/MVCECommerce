@@ -14,3 +14,4 @@ C:\Projects\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfac
 C:\Projects\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.dll
 C:\Projects\ECommerceApp\ECommerceApp.Interfaces\obj\Debug\ECommerceApp.Interfaces.pdb
+C:\Projects\ECommerceApp\ECommerceApp.Interfaces\bin\Debug\ECommerceApp.Entities.dll.config

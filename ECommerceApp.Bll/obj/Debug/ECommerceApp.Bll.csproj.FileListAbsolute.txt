@@ -28,3 +28,4 @@ C:\Projects\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.csprojAssem
 C:\Projects\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.dll
 C:\Projects\ECommerceApp\ECommerceApp.Bll\obj\Debug\ECommerceApp.Bll.pdb
+C:\Projects\ECommerceApp\ECommerceApp.Bll\bin\Debug\ECommerceApp.Entities.dll.config

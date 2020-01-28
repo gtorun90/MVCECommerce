@@ -98,3 +98,4 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCW
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.pdb
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll.config

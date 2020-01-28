@@ -33,3 +33,4 @@ C:\Projects\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.csproj.Copy
 C:\Projects\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.dll
 C:\Projects\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.pdb
 C:\Projects\ECommerceApp\ECommerceApp.Dal\obj\Debug\ECommerceApp.Dal.Migrations.LatestChanges.resources
+C:\Projects\ECommerceApp\ECommerceApp.Dal\bin\Debug\ECommerceApp.Entities.dll.config
