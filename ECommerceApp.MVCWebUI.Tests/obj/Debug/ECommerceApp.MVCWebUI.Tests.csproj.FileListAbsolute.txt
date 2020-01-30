@@ -67,12 +67,12 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.WebPag
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.Optimization.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\Ninject.dll
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Bll.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.dll
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\WebGrease.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\WebGrease.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\Antlr3.Runtime.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.MVCWebUI.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.MVCWebUI.dll.config
@@ -87,8 +87,9 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.WebPag
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.Optimization.xml
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\Ninject.xml
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.pdb
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll.config
+C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Bll.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.dll.config
@@ -98,4 +99,3 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCW
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\obj\Debug\ECommerceApp.MVCWebUI.Tests.pdb
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll.config
