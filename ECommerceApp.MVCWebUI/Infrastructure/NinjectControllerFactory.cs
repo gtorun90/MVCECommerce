@@ -25,7 +25,6 @@ namespace ECommerceApp.MVCWebUI.Infrastructure
 
             _ninjectKernel.Bind<IProductService>().To<ProductManager>().WithConstructorArgument("productDal", new EfProductDal());
             _ninjectKernel.Bind<ICategoryService>().To<CategoryManager>().WithConstructorArgument("categoryDal", new EfCategoryDal());
-            _ninjectKernel.Bind<ICartService>().To<CartManager>().WithConstructorArgument("cartDal", new EfCartDal());
 
         }
 

@@ -41,7 +41,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Concrete\CartManager.cs" />
     <Compile Include="Concrete\CategoryManager.cs" />
     <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

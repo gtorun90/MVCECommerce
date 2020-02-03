@@ -16,6 +16,35 @@ namespace ECommerceApp.Entities
                 return _cartLines;
             }
         }
+        public void AddToCart(Product product, int quantity)
+        {
+            var cartLine = _cartLines.FirstOrDefault(i => i.Product.Id == product.Id);
+            if (cartLine == null)
+            {
+                _cartLines.Add(new CartLine()
+                {
+                    Product = product,
+                    Quantity = quantity
+                });
+            }
+            else
+            {
+                cartLine.Quantity += 1;
+            }
+        }
+
+        public void RemoveFromCart(Product product)
+        {
+            _cartLines.RemoveAll(i => i.Product.Id == product.Id);
+        }
+        public double Total()
+        {
+            return _cartLines.Sum(i => i.Product.Price * i.Quantity);
+        }
+        public void Clear()
+        {
+            _cartLines.Clear();
+        }
     }
     public class CartLine
     {

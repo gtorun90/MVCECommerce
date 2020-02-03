@@ -10,22 +10,30 @@ namespace ECommerceApp.MVCWebUI.Controllers
 {
     public class CartController : Controller
     {
-        private ICartService _cartService;
-        public CartController(ICartService cartService)
+        private IProductService _productService;
+        public CartController(IProductService productService)
         {
-            _cartService = cartService;
+            _productService = productService;
         }
         public ActionResult Index()
         {
             return View(GetCart());
         }        
-        public ActionResult AddToCart(int id = 0)
+        public ActionResult AddToCart(int productId = 0)
         {
-            var product = _cartService.Get(id);
+            var product = _productService.Get(productId);
             if (product != null)
             {
-                _cartService.Add(product,1);
-                //GetCart();
+                GetCart().AddToCart(product,1);
+            }
+            return RedirectToAction("Index");
+        }        
+        public ActionResult RemoveCart(int productId = 0)
+        {
+            var product = _productService.Get(productId);
+            if (product != null)
+            {
+                GetCart().RemoveFromCart(product);
             }
             return RedirectToAction("Index");
         }
@@ -34,7 +42,7 @@ namespace ECommerceApp.MVCWebUI.Controllers
             Cart cart = (Cart)Session["Cart"];
             if (cart == null)
             {
-                cart = _cartService.GetCarts();
+                cart = new Cart();
                 Session["Cart"] = cart;
             }
             return cart;

@@ -18,3 +18,4 @@ C:\Projects\ECommerceApp\ECommerceApp.Entities\bin\Debug\Newtonsoft.Json.xml
 C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csproj.CopyComplete
 C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.dll
 C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.pdb
+C:\Projects\ECommerceApp\ECommerceApp.Entities\obj\Debug\ECommerceApp.Entities.csprojAssemblyReference.cache
