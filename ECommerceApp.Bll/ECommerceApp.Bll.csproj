@@ -41,13 +41,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\ICategoryService.cs" />
+    <Compile Include="Abstract\IProductService.cs" />
     <Compile Include="Concrete\CategoryManager.cs" />
     <Compile Include="Concrete\ProductManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Abstract\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ECommerceApp.Dal\ECommerceApp.Dal.csproj">
       <Project>{0EB5A300-F04D-486E-A4E0-1ED4B1BB5C34}</Project>
@@ -56,10 +56,6 @@
     <ProjectReference Include="..\ECommerceApp.Entities\ECommerceApp.Entities.csproj">
       <Project>{A4E23A1C-B984-41BB-A033-2ED07D09194A}</Project>
       <Name>ECommerceApp.Entities</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ECommerceApp.Interfaces\ECommerceApp.Interfaces.csproj">
-      <Project>{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}</Project>
-      <Name>ECommerceApp.Interfaces</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

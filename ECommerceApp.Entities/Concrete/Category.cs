@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ECommerceApp.Entities.Abstract;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ECommerceApp.Entities
 {
-    public class Category
+    public class Category:IEntity
     {
         public int Id { get; set; }
         

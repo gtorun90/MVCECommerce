@@ -1,6 +1,6 @@
-﻿using ECommerceApp.Dal.Abstract;
+﻿using ECommerceApp.Bll.Abstract;
+using ECommerceApp.Dal.Abstract;
 using ECommerceApp.Entities;
-using ECommerceApp.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,37 +17,41 @@ namespace ECommerceApp.Bll.Concrete
             _productDal = productDal;
 
         }
+
         public void Add(Product product)
         {
             _productDal.Add(product);
         }
 
-        public void Delete(int productId)
+        public void Delete(Product product)
         {
-            _productDal.Delete(productId);
+            _productDal.Delete(product);
         }
 
         public Product Get(int productId)
         {
-            return _productDal.Get(productId);
+            return _productDal.Get(p=>p.Id == productId);
         }
 
         public List<Product> GetAll()
         {
             return _productDal.GetAll();
-        }        
+        }
+
         public List<Product> GetAllByIsHome()
         {
             return _productDal.GetAllByIsHome();
         }
+
+        public List<Product> GetAllWithShortDescrition()
+        {
+            return _productDal.GetAllWithShortDescrition();
+        }
+
         public List<Product> GetProductsByCategoryId(int categoryId)
         {
             return _productDal.GetProductsByCategoryId(categoryId);
         }
-        public List<Product> GetAllWithShortDescrition()
-        {
-            return _productDal.GetAllWithShortDescrition();
-        }        
 
         public void Update(Product product)
         {

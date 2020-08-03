@@ -6,9 +6,9 @@ using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using ECommerceApp.Bll.Abstract;
 using ECommerceApp.Dal.Concrete.EntityFrameWork;
 using ECommerceApp.Entities;
-using ECommerceApp.Interfaces;
 
 namespace ECommerceApp.MVCWebUI.Controllers
 {
@@ -93,7 +93,8 @@ namespace ECommerceApp.MVCWebUI.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id = 0)
         {
-            _productService.Delete(id);
+            Product product = _productService.Get(id);
+            _productService.Delete(product);
             return RedirectToAction("Index");
         }
         public ActionResult Error()

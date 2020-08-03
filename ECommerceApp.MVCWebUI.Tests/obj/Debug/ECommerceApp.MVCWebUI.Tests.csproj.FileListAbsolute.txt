@@ -68,7 +68,6 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.WebPag
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.Optimization.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\Ninject.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Bll.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\EntityFramework.dll
@@ -89,7 +88,6 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\System.Web.Optimi
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\Ninject.xml
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Entities.dll.config
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Interfaces.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Bll.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI.Tests\bin\Debug\ECommerceApp.Dal.dll.config

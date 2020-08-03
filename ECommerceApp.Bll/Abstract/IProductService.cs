@@ -5,12 +5,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerceApp.Dal.Abstract
+namespace ECommerceApp.Bll.Abstract
 {
-    public interface IProductDal:IEntityRepository<Product>
+    public interface IProductService
     {
+        List<Product> GetAll();
         List<Product> GetAllByIsHome();
+
         List<Product> GetAllWithShortDescrition();
         List<Product> GetProductsByCategoryId(int categoryId);
+        Product Get(int productId);
+        void Add(Product product);
+
+        void Update(Product product);
+
+        void Delete(Product product);
     }
 }

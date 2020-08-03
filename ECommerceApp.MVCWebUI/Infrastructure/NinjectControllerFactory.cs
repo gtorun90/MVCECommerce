@@ -1,6 +1,6 @@
-﻿using ECommerceApp.Bll.Concrete;
+﻿using ECommerceApp.Bll.Abstract;
+using ECommerceApp.Bll.Concrete;
 using ECommerceApp.Dal.Concrete.EntityFrameWork;
-using ECommerceApp.Interfaces;
 using Ninject;
 using System;
 using System.Collections.Generic;

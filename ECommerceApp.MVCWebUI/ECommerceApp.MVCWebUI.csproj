@@ -284,10 +284,6 @@
       <Project>{A4E23A1C-B984-41BB-A033-2ED07D09194A}</Project>
       <Name>ECommerceApp.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ECommerceApp.Interfaces\ECommerceApp.Interfaces.csproj">
-      <Project>{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}</Project>
-      <Name>ECommerceApp.Interfaces</Name>
-    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

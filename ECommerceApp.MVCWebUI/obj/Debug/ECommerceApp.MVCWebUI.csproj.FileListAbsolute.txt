@@ -147,7 +147,6 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\Antlr3.Runtime.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Bll.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Dal.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Entities.dll
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Interfaces.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\EntityFramework.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\EntityFramework.SqlServer.dll
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
@@ -186,7 +185,6 @@ C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Dal.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Dal.dll.config
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Entities.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Entities.dll.config
-C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\ECommerceApp.Interfaces.pdb
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\EntityFramework.xml
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\EntityFramework.SqlServer.xml
 C:\Projects\ECommerceApp\ECommerceApp.MVCWebUI\bin\Microsoft.AspNetCore.Cryptography.Internal.xml

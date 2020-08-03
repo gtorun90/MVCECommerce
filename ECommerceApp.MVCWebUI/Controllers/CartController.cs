@@ -1,5 +1,5 @@
-﻿using ECommerceApp.Entities;
-using ECommerceApp.Interfaces;
+﻿using ECommerceApp.Bll.Abstract;
+using ECommerceApp.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

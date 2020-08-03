@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.Bll", "ECommer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.Dal", "ECommerceApp.Dal\ECommerceApp.Dal.csproj", "{0EB5A300-F04D-486E-A4E0-1ED4B1BB5C34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.Interfaces", "ECommerceApp.Interfaces\ECommerceApp.Interfaces.csproj", "{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.MVCWebUI", "ECommerceApp.MVCWebUI\ECommerceApp.MVCWebUI.csproj", "{FEB3ADA8-9283-4859-8D12-6336D92DF8C3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ECommerceApp.MVCWebUI.Tests", "ECommerceApp.MVCWebUI.Tests\ECommerceApp.MVCWebUI.Tests.csproj", "{A5357D63-28B5-4E50-B67F-AE6332B64167}"
@@ -33,10 +31,6 @@ Global
 		{0EB5A300-F04D-486E-A4E0-1ED4B1BB5C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EB5A300-F04D-486E-A4E0-1ED4B1BB5C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EB5A300-F04D-486E-A4E0-1ED4B1BB5C34}.Release|Any CPU.Build.0 = Release|Any CPU
-		{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{60ECC2D4-CBD7-428D-A544-00B88DEE39D1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FEB3ADA8-9283-4859-8D12-6336D92DF8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FEB3ADA8-9283-4859-8D12-6336D92DF8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEB3ADA8-9283-4859-8D12-6336D92DF8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU

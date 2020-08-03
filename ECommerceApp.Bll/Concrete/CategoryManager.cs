@@ -1,6 +1,6 @@
-﻿using ECommerceApp.Dal.Abstract;
+﻿using ECommerceApp.Bll.Abstract;
+using ECommerceApp.Dal.Abstract;
 using ECommerceApp.Entities;
-using ECommerceApp.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,14 +22,14 @@ namespace ECommerceApp.Bll.Concrete
             _categoryDal.Add(category);
         }
 
-        public void Delete(int categoryId)
+        public void Delete(Category category)
         {
-            _categoryDal.Delete(categoryId);
+            _categoryDal.Delete(category);
         }
 
         public Category Get(int categoryId)
         {
-            return _categoryDal.Get(categoryId);
+            return _categoryDal.Get(c=>c.Id == categoryId);
         }
 
         public List<Category> GetAll()

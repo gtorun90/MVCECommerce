@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ECommerceApp.Entities.Abstract;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ECommerceApp.Entities
 {
-    public class Cart
+    public class Cart:IEntity
     {
         private List<CartLine> _cartLines = new List<CartLine>();
         public List<CartLine> CartLines

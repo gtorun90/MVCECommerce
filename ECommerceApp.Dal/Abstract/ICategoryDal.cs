@@ -7,12 +7,7 @@ using System.Threading.Tasks;
 
 namespace ECommerceApp.Dal.Abstract
 {
-    public interface ICategoryDal
+    public interface ICategoryDal:IEntityRepository<Category>
     {
-        List<Category> GetAll();
-        Category Get(int productId);
-        void Add(Category category);
-        void Delete(int categoryId);
-        void Update(Category category);
     }
 }

@@ -52,10 +52,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Abstract\ICategoryDal.cs" />
+    <Compile Include="Abstract\IEntityRepository.cs" />
     <Compile Include="Abstract\IProductDal.cs" />
     <Compile Include="Concrete\AdoNet\AdProductDal.cs" />
     <Compile Include="Concrete\EntityFrameWork\ECommerceAppDbContext.cs" />
     <Compile Include="Concrete\EntityFrameWork\EfCategoryDal.cs" />
+    <Compile Include="Concrete\EntityFrameWork\EfEntityRepositoryBase.cs" />
     <Compile Include="Concrete\EntityFrameWork\EfProductDal.cs" />
     <Compile Include="Migrations\202001071912243_CreateTables.cs" />
     <Compile Include="Migrations\202001071912243_CreateTables.designer.cs">
